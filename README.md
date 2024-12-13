@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone and everyone in the tech space
 - 📫 You can reach through snapchat at f_sedem20 and on instagram at sedem.copper
 - 😄 Pronouns: He
-- ⚡ Fun fact: java is the best programming language
+- ⚡ Fun fact: Java is the best programming language
 
 <!---
 Brainiac2222/Brainiac2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
