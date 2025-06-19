@@ -52,7 +52,7 @@
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Matrix Calculator (VB.NET)** | A clean, responsive web app to calculate matrices using HTML, CSS, and JavaScript | [🔗 View on GitHub](https://github.com/Brainiac2222/MatrixApp1) |
+| **Matrix Calculator (VB.NET)** | A clean, responsive Desktop app engineered with VB.NET | [🔗 View on GitHub](https://github.com/Brainiac2222/MatricesApp) |
 | **Matrix Calculator (Java)** | Java-based matrix operations application with a command-line interface | [🔗 View on GitHub](https://github.com/Brainiac2222/MatrixApp-JavaVersion) |
 | **Taco Cloud (Spring Boot)** | A Spring Boot web app built by replicating the Taco Cloud project | [🔗 View on GitHub](https://github.com/Brainiac2222/taco-cloud) |
 
